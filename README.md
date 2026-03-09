@@ -11,9 +11,9 @@ While my early work has centered on simulation engines and game systems, my long
 ---
 ## Technical Skills
 
-| Languages                                                    | Core Concepts                                                                                                                                                            | Tools & Technologies |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
-| - Java<br/>- Python<br/>- C / C++<br/>- JavaScript<br/>- SQL | - Data Structures and Algorithms<br/>- Object-Oriented Design<br/>- Operating Systems Fundamentals<br/>- Software Architecture<br/>- Documentation and Technical Writing |                      |
+| Languages                                                    | Core Concepts                                                                                                                                                            | Tools & Technologies               |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -----------------------------------|
+| - Java<br/>- Python<br/>- C / C++<br/>- JavaScript<br/>- SQL | - Data Structures and Algorithms<br/>- Object-Oriented Design<br/>- Operating Systems Fundamentals<br/>- Software Architecture<br/>- Documentation and Technical Writing | - Git<br/>- OpenGL<br/>- Linux<br/>|
 
 ---
 ## Connect
